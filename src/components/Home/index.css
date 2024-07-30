@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  height: 400px;
+  width: 400px;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: normal;
+  font-weight: 500;
+}
+
+.description {
+  color: #475569;
+  font-family: normal;
+}

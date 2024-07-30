@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.image {
+  height: 400px;
+  width: 400px;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  height: 100px;
+  width: 200px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}

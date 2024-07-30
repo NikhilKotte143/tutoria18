@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+.elements {
+  display: flex;
+}
+
+.image {
+  height: 100px;
+  width: 400px;
+}
+.button{
+  height: 30px;
+  width: 50px;
+}
